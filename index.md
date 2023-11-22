@@ -1,4 +1,7 @@
 ---
-title: Welcome to my blog
+
+# My first blog with github pages 
+
+**create by: Michelle**
 ---
 
